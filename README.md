@@ -31,3 +31,4 @@ Creates a frequency map of words, extracts the top 3 by count, then sorts them a
 
 Question 7 – Rotate Linked List
 Rotates a singly linked list n steps to the right by adjusting node connections.
+ Attached is the video explaining my approach https://drive.google.com/file/d/1Fs9dsqlIr5QNXkFKa7wWPVJVeezM1zVV/view?usp=sharing
